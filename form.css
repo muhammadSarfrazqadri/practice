@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main {
+    position: relative;
+    background-color: grey;
+    height: 130px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 50px;
+}
+label {
+    display: block;
+    padding: 5px;
+}
+input {
+    width: 90%;
+    position: absolute;
+    right: 3px;
+}
+select{
+    width: 90%;
+    position: absolute;
+    right: 3px;
+}
+textarea {
+    width: 90%;
+    position: absolute;
+    right: 3px;
+}
